@@ -25,6 +25,6 @@ public class FbTestMaven {
 		btnlogin.click();
 
 		driver.close();
+		btnlogin.click();
 	}
-
 }
