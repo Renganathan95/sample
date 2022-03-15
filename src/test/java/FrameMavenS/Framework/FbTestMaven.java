@@ -26,6 +26,10 @@ public class FbTestMaven {
 
 		driver.close();
 		btnlogin.click();
+<<<<<<< HEAD
 		driver.close();
+=======
+		txtpassword.sendKeys("xxxxxx");
+>>>>>>> 9c118409f13c4f254a2980e407ac3e2cf705a9da
 	}
 }
